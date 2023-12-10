@@ -27,3 +27,10 @@ streamlit run embedding_main.py
 ```
 ## Presentation
 ![image1](presentation/Slide1.png)
+![image2](presentation/Slide2.png)
+![image3](presentation/Slide3.png)
+![image4](presentation/Slide4.png)
+![image5](presentation/Slide5.png)
+
+## Demo
+![video](DEmo_2.mp4)
