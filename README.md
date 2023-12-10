@@ -33,4 +33,4 @@ streamlit run embedding_main.py
 ![image5](presentation/Slide5.png)
 
 ## Demo
-![video](Demo_2.mp4)
+[![video](Demo_2.mp4)](https://github.com/AbdirayimovS/FAILURE_DETECTION_SYSTEM/blob/master/Demo_2.mp4)https://github.com/AbdirayimovS/FAILURE_DETECTION_SYSTEM/blob/master/Demo_2.mp4
