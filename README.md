@@ -24,6 +24,6 @@ git clone https://github.com/AbdirayimovS/FAILURE_DETECTION_SYSTEM.git
 cd FAILURE_DETECTION_SYSTEM
 pip install -r requirements.txt
 streamlit run embedding_main.py
-
+```
 ## Presentation
-
+![image1](Capstone Competition APEX/Slide1.png)
